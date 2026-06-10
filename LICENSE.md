@@ -1,4 +1,4 @@
-# 
+# Profissional Langflow plugins. Com agentes colaborativos e suporte multimodal — otimizado para máximo desempenho e eficiência.
 
 
 
